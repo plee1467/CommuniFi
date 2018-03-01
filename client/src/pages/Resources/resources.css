@@ -1,0 +1,53 @@
+/*      body {
+        background-color: white;
+      }*/
+  /*    .navbar-brand {
+        color: black;
+      }*/
+ /*     .navbar {
+        border-bottom: 1px solid black;
+        border-radius: 0px;
+      }*/
+/*      .dropdown {
+        padding-top: 5px;
+        color: black;
+      }*/
+      /*.dropdown-menu {
+        background-color: transparent;
+        background-color: #020120;
+        color: black;
+        border: 1px solid black;
+      }*/
+    /*  .dropdown-menu li a {
+        color: black;
+      }*/
+      
+      #resourcesHeader{
+        text-align: center;
+        padding: 10px;
+        font-family: 'Orbitron', sans-serif;
+        color: #05c371;
+      }
+
+      #submitBtn{
+        margin-top: 20px;
+      }
+
+      #sidePanel{
+        padding-top: 40px;
+        text-align: center;
+        margin-top: 61px;
+      }
+
+/*      .resourcesPage{
+        padding:10px;
+        font-size: 20px
+      }*/
+
+      .resourceBorder {
+        border: 1px;
+        border-style: solid;
+        border-color: #05c371;
+        text-align: center;
+        vertical-align: middle;
+      }
